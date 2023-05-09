@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Prateek",
+      "email": "prateek@gmail.com",
+      "mobile": "1234568890",
+      "address": "BTM Layout,\nBengaluru",
+      "id": 2
+    },
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "mobile": "952764431",
+      "address": "Basaveshwar Nagar,\nBengaluru",
+      "id": 3
+    },
+    {
+      "name": "Player",
+      "email": "player@gmail.com",
+      "mobile": "9665432270",
+      "address": "Whitefield,\nBengaluru\n",
+      "id": 5
+    },
+    {
+      "name": "Student",
+      "email": "stud12@gmail.com",
+      "mobile": "6668696796",
+      "address": "Electronic city,\nBengaluru",
+      "id": 7
+    },
+    {
+      "name": "Admin",
+      "email": "admin123@gmail.com",
+      "mobile": "8329722358",
+      "address": "Rajajinagar,\nBengaluru",
+      "id": 8
+    }
+  ]
+}
